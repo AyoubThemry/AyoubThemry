@@ -1,4 +1,12 @@
-<h2 align="center">Hallo 👋! My name is Ayoub Themry and I'm a computer science student, from Tunisia Studying AT TU DORTMUND </h2>
+<h2 align="center">Hallo 👋! My name is Ayoub Themry. I'm a Computer Science student from Tunisia, studying at TU Dortmund.
+
+
+
+
+
+
+
+</h2>
 
 ###
 <h3 align="left"> Stats: </h3>
